@@ -3,7 +3,7 @@
 ## Week1 作業系統概述
 
 - [筆記](https://cyyeh.github.io/operating-system/#%E7%B0%A1%E4%BB%8B)
-- [Quiz](/blob/master/quiz1.md)
+- [Quiz](/quiz1.md)
 
 ## Week2 作業系統運行環境
 
