@@ -8,6 +8,7 @@
 ## Week2 作業系統運行環境
 
 - [筆記](https://cyyeh.github.io/operating-system/#%E4%BD%9C%E6%A5%AD%E7%B3%BB%E7%B5%B1%E9%81%8B%E8%A1%8C%E7%92%B0%E5%A2%83%E5%92%8C%E6%A9%9F%E5%88%B6)
+- [Quiz](/quiz2.md)
 
 ## Week3 行程執行緒模型
 
