@@ -35,7 +35,7 @@
 
 ## Week9 檔案模型1
 
-- [筆記](https://cyyeh.github.io/operating-system/#%E6%AA%94%E6%A1%88%E7%B3%BB%E7%B5%B1%081)
+- [筆記](https://cyyeh.github.io/operating-system/#%E6%AA%94%E6%A1%88%E7%B3%BB%E7%B5%B11)
 
 ## Week10 檔案模型2
 
